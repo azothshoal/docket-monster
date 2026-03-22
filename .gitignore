@@ -23,3 +23,6 @@ __pycache__/
 
 # macOS
 .DS_Store
+
+# Cached court index page — fetched live on each run
+judges.html
