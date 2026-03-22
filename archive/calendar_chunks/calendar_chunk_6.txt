@@ -1,0 +1,4081 @@
+<!-- Source: https://apps.cand.uscourts.gov/CEO/cfd.aspx?71bv -->
+<table class="Calendar">
+ <tbody>
+  <tr>
+   <td align="center" colspan="2">
+    <a name="#top">
+     <strong>
+      Calendar for: Magistrate Judge Sallie Kim
+      <br/>
+      Courtroom C, 15th Floor
+      <br/>
+      Courtroom Deputy: Brenda Lopez
+     </strong>
+    </a>
+    <br/>
+    <br/>
+   </td>
+  </tr>
+  <tr>
+   <td colspan="2">
+    Last Updated: Mar 30 2025  1:02PM
+   </td>
+  </tr>
+  <tr>
+   <td align="" colspan="2">
+    <strong>
+     <a href="#Notes">
+      View Scheduling Notes
+     </a>
+    </strong>
+   </td>
+  </tr>
+  <tr height="45" valign="bottom">
+   <td class="Date" colspan="2">
+    Monday, Mar 31 2025
+   </td>
+  </tr>
+  <tr>
+   <td>
+    09:30AM
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    - Civil Law and Motion
+    <br/>
+    Zoom Webinar ID: 161 977 9783 / Passcode: 395832
+    <br/>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    10:00AM
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:24-cr-00081-RFL-2 - USA v. Dennis Jordan (Custody)
+    <br/>
+    AUSA: Waqar Hansen / DEF: Charles Woodson / PTS: Allyse Johnson
+    <br/>
+    Attorney Appointment Hearing
+   </td>
+  </tr>
+  <tr>
+   <td>
+    10:30AM
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    - Criminal Duty
+    <br/>
+    Calendar held in Courtroom C, 15th Floor
+    <br/>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:18-cr-00229-VC-1 - USA v. Gregory Joseph Hansen (Custody)
+    <br/>
+    AUSA: Christiaan Highsmith / DEF: Ana Botello / USPO: Rafael Lopez
+    <br/>
+    Status Conference re Treatment Program
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:25-cr-00072-RFL-1 - USA v. Marcos Kaleo Blueford
+    <br/>
+    AUSA: Kevin Barry / DEF: Taylor Fatherree / PTS: Allyse Johnson
+    <br/>
+    Bail Review Hearing
+   </td>
+  </tr>
+  <tr>
+   <td>
+    01:30PM
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    - Case Management Conferences
+    <br/>
+    Zoom Webinar ID: 161 977 9783 / Passcode: 395832
+    <br/>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:24-cv-01456-SK - Severs v. Garcia et al
+    <br/>
+    Initial Case Mgmt Conference
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:24-cv-02002-SK - Sandhu v. BlackBerry Corporation et al
+    <br/>
+    Further Case Mgmt Conference
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:24-cv-08475-SK - Malek et al v. Mercedes-Benz USA, LLC
+    <br/>
+    For connection information, please see the
+    <a href="https://www.cand.uscourts.gov/sk">
+     judge's page.
+    </a>
+    <br/>
+    Initial Case Mgmt Conference
+   </td>
+  </tr>
+  <tr height="45" valign="bottom">
+   <td class="DATE" colspan="2">
+    Wednesday, Apr  2 2025
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    09:00AM
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    4:23-cv-04121-DMR - Taylor v. San Francisco Sheriff's Department et al
+    <br/>
+    For connection information, please see the
+    <a href="https://www.cand.uscourts.gov/sk">
+     judge's page.
+    </a>
+    <br/>
+    Scheduling Conference
+   </td>
+  </tr>
+  <tr height="45" valign="bottom">
+   <td class="DATE" colspan="2">
+    Thursday, Apr  3 2025
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    09:30AM
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:23-cv-00428-WHO - Sample v. Smith et al
+    <br/>
+    Settlement Conference
+   </td>
+  </tr>
+  <tr height="45" valign="bottom">
+   <td class="DATE" colspan="2">
+    Friday, Apr  4 2025
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    09:30AM
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:24-cv-05840-JCS - Bradford v. Federal Express Corporation
+    <br/>
+    Settlement Conference
+   </td>
+  </tr>
+  <tr height="45" valign="bottom">
+   <td class="DATE" colspan="2">
+    Monday, Apr  7 2025
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    - JUDGE UNAVAILABLE
+    <br/>
+   </td>
+  </tr>
+  <tr height="45" valign="bottom">
+   <td class="DATE" colspan="2">
+    Tuesday, Apr  8 2025
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    - JUDGE UNAVAILABLE
+    <br/>
+   </td>
+  </tr>
+  <tr height="45" valign="bottom">
+   <td class="DATE" colspan="2">
+    Wednesday, Apr  9 2025
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    - JUDGE UNAVAILABLE
+    <br/>
+   </td>
+  </tr>
+  <tr height="45" valign="bottom">
+   <td class="DATE" colspan="2">
+    Thursday, Apr 10 2025
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    - JUDGE UNAVAILABLE
+    <br/>
+   </td>
+  </tr>
+  <tr height="45" valign="bottom">
+   <td class="DATE" colspan="2">
+    Friday, Apr 11 2025
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    - JUDGE UNAVAILABLE
+    <br/>
+   </td>
+  </tr>
+  <tr height="45" valign="bottom">
+   <td class="DATE" colspan="2">
+    Monday, Apr 14 2025
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    09:30AM
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    - Civil Law and Motion
+    <br/>
+    Zoom Webinar ID: 161 977 9783 / Passcode: 395832
+    <br/>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:24-cv-06778-SK - Bacigalupi v. Wells Fargo Bank N.A et al
+    <br/>
+    Motion to Compel
+    <br/>
+    Motion to Dismiss
+    <br/>
+    Motion to Transfer Case
+   </td>
+  </tr>
+  <tr>
+   <td>
+    01:30PM
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    - Case Management Conferences
+    <br/>
+    Zoom Webinar ID: 161 977 9783 / Passcode: 395832
+    <br/>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:21-cv-09613-SK - The Center for Investigative Reporting et al v. Department of Justice et al
+    <br/>
+    Further Case Mgmt Conference
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:23-cv-02767-SK - Colvin, Jr. et al v. City and County of San Francisco et al
+    <br/>
+    Further Case Mgmt Conference
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:24-cv-01447-SK - California Council of the Blind et al v. Weber
+    <br/>
+    Further Case Mgmt Conference
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:24-cv-01933-SK - Saunders v. United States of America
+    <br/>
+    For connection information, please see the
+    <a href="https://www.cand.uscourts.gov/sk">
+     judge's page.
+    </a>
+    <br/>
+    Further Case Mgmt Conference
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:24-cv-04697-SK - Webcor Construction L.P. dba Webcor Builders v. Steadfast Insurance Company
+    <br/>
+    Further Case Mgmt Conference
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:25-cv-00191-SK - Voorhies v. State Farm General Insurance Company
+    <br/>
+    Initial Case Mgmt Conference
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:25-cv-00333-SK - O'Coirbhin v. PNC Bank, National Association
+    <br/>
+    Initial Case Mgmt Conference
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:25-cv-00475-SK - W. et al v. Okta et al
+    <br/>
+    Initial Case Mgmt Conference
+   </td>
+  </tr>
+  <tr height="45" valign="bottom">
+   <td class="DATE" colspan="2">
+    Tuesday, Apr 15 2025
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    09:00AM
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    4:24-cv-09054-KAW - Childs v. Federal Express Corporation
+    <br/>
+    Scheduling Conference
+   </td>
+  </tr>
+  <tr height="45" valign="bottom">
+   <td class="DATE" colspan="2">
+    Wednesday, Apr 16 2025
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    09:30AM
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:24-cv-06234-LB - Digital Revolution Media Center, LLC v. Sentinel Insurance Company, Ltd.
+    <br/>
+    Settlement Conference
+   </td>
+  </tr>
+  <tr height="45" valign="bottom">
+   <td class="DATE" colspan="2">
+    Friday, Apr 18 2025
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    - JUDGE UNAVAILABLE
+    <br/>
+   </td>
+  </tr>
+  <tr height="45" valign="bottom">
+   <td class="DATE" colspan="2">
+    Monday, Apr 21 2025
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    09:30AM
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    - Civil Law and Motion
+    <br/>
+    Zoom Webinar ID: 161 977 9783 / Passcode: 395832
+    <br/>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:24-cv-03129-SK - Coven et al v. NewRez, LLC
+    <br/>
+    For connection information, please see the
+    <a href="https://www.cand.uscourts.gov/sk">
+     judge's page.
+    </a>
+    <br/>
+    Further Case Mgmt Conference
+    <br/>
+    Motion to Dismiss
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:24-cv-06463-SK - Sustrick v. CI Capital Partners LLC et al
+    <br/>
+    Motion to Dismiss
+   </td>
+  </tr>
+  <tr>
+   <td>
+    01:30PM
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    - Case Management Conferences
+    <br/>
+    Zoom Webinar ID: 161 977 9783 / Passcode: 395832
+    <br/>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:14-cv-01509-SK - United States of America, ex rel. et al v. Shaw Environmental &amp; Infrastructure, Inc. et al
+    <br/>
+    Further Case Mgmt Conference
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:23-cv-03126-SK - Westbridge Capital Management, LLC v. Westbridge Capital, LTD.
+    <br/>
+    For connection information, please see the
+    <a href="https://www.cand.uscourts.gov/sk">
+     judge's page.
+    </a>
+    <br/>
+    Further Case Mgmt Conference
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:24-cv-06999-SK - Ramey v. Scale AI, Inc. et al
+    <br/>
+    For connection information, please see the
+    <a href="https://www.cand.uscourts.gov/sk">
+     judge's page.
+    </a>
+    <br/>
+    Initial Case Mgmt Conference
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    4:25-cv-00651-HSG - MORK v. LGC EMPLOYEECO, LLC, a Delaware limited liability company d/b/a LAMONS MANUFACTURING &amp; SERVICE CO.
+    <br/>
+    Initial Case Mgmt Conference
+   </td>
+  </tr>
+  <tr height="45" valign="bottom">
+   <td class="DATE" colspan="2">
+    Tuesday, Apr 22 2025
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    09:30AM
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:23-cv-05314-JSC - Daniels v. United States of America et al
+    <br/>
+    Settlement Conference
+   </td>
+  </tr>
+  <tr height="45" valign="bottom">
+   <td class="DATE" colspan="2">
+    Wednesday, Apr 23 2025
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    09:30AM
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    4:24-cv-06837-KAW - Coffey v. Alameda County et al
+    <br/>
+    Settlement Conference
+   </td>
+  </tr>
+  <tr height="45" valign="bottom">
+   <td class="DATE" colspan="2">
+    Monday, Apr 28 2025
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    09:30AM
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    - Civil Law and Motion
+    <br/>
+    Zoom Webinar ID: 161 977 9783 / Passcode: 395832
+    <br/>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:24-cv-07836-SK - Khamooshi et al v. Politico LLC
+    <br/>
+    Motion to Dismiss
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:24-cv-08186-SK - Workinger et al v. WalkMe, Inc., a Delaware corporation et al
+    <br/>
+    Motion to Dismiss
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:25-cv-02267-SK - SVB Financial Trust  v. First-Citizens Bank and Trust Company
+    <br/>
+    Motion to Transfer Case
+   </td>
+  </tr>
+  <tr>
+   <td>
+    01:30PM
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    - Case Management Conferences
+    <br/>
+    Zoom Webinar ID: 161 977 9783 / Passcode: 395832
+    <br/>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:24-cv-03177-SK - Flores v. Aquarion Asset Management, LLC
+    <br/>
+    For connection information, please see the
+    <a href="https://www.cand.uscourts.gov/sk">
+     judge's page.
+    </a>
+    <br/>
+    Initial Case Mgmt Conference
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:24-cv-03851-SK - Cobb v. Chevron Corporation
+    <br/>
+    For connection information, please see the
+    <a href="https://www.cand.uscourts.gov/sk">
+     judge's page.
+    </a>
+    <br/>
+    Further Case Mgmt Conference
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:24-cv-07836-SK - Khamooshi et al v. Politico LLC
+    <br/>
+    Initial Case Mgmt Conference
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:25-cv-00917-SK - Loukonen v. County of Sonoma
+    <br/>
+    Initial Case Mgmt Conference
+   </td>
+  </tr>
+  <tr height="45" valign="bottom">
+   <td class="DATE" colspan="2">
+    Tuesday, Apr 29 2025
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    09:00AM
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:24-cv-03983-TSH - Douglas v. Perez
+    <br/>
+    For connection information, please see the
+    <a href="https://www.cand.uscourts.gov/sk">
+     judge's page.
+    </a>
+    <br/>
+    Scheduling Conference
+   </td>
+  </tr>
+  <tr height="45" valign="bottom">
+   <td class="DATE" colspan="2">
+    Wednesday, Apr 30 2025
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    09:30AM
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:24-cv-00908-JD - J.D. et al v. Mt. Diablo Unified School District
+    <br/>
+    Settlement Conference
+   </td>
+  </tr>
+  <tr height="45" valign="bottom">
+   <td class="DATE" colspan="2">
+    Thursday, May  1 2025
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    09:00AM
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:23-cv-04069-CRB - Johnson v. County of Alameda
+    <br/>
+    Scheduling Conference
+   </td>
+  </tr>
+  <tr height="45" valign="bottom">
+   <td class="DATE" colspan="2">
+    Friday, May  2 2025
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    - JUDGE UNAVAILABLE
+    <br/>
+   </td>
+  </tr>
+  <tr height="45" valign="bottom">
+   <td class="DATE" colspan="2">
+    Monday, May  5 2025
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    - Closed for Further Settings: Terminal digits 1, 3, 5, 7, 9
+    <br/>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    09:30AM
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    - Civil Law and Motion
+    <br/>
+    Zoom Webinar ID: 161 977 9783 / Passcode: 395832
+    <br/>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:24-cv-06463-SK - Sustrick v. CI Capital Partners LLC et al
+    <br/>
+    Motion to Dismiss
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:25-cv-00333-SK - O'Coirbhin v. PNC Bank, National Association
+    <br/>
+    Motion to Dismiss
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:25-cv-01745-SK - Buckelew Programs v. Van Zandt
+    <br/>
+    Motion to Remand
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:25-cv-02451-AGT - H.A. Marshall Investments, Inc. dba Autotrends v. Houston Casualty Company
+    <br/>
+    Motion to Dismiss
+   </td>
+  </tr>
+  <tr>
+   <td>
+    11:30AM
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:25-cr-00037-SK - USA v. Jovanni Hernandez
+    <br/>
+    Status Conference
+   </td>
+  </tr>
+  <tr>
+   <td>
+    01:30PM
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    - Case Management Conferences
+    <br/>
+    Zoom Webinar ID: 161 977 9783 / Passcode: 395832
+    <br/>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:20-cv-05991-SK - Clark v. Yodlee, Inc. et al
+    <br/>
+    Further Case Mgmt Conference
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:24-cv-07924-SK - Masry et al v. Zenleads, Inc.
+    <br/>
+    Initial Case Mgmt Conference
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:25-cv-00994-SK - Blueford v. Metropolitan Life Insurance Company
+    <br/>
+    Initial Case Mgmt Conference
+   </td>
+  </tr>
+  <tr>
+   <td>
+    03:00PM
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:23-cv-01895-VC - Allen et al v. City of Antioch et al
+    <br/>
+    Discovery Hearing
+   </td>
+  </tr>
+  <tr height="45" valign="bottom">
+   <td class="DATE" colspan="2">
+    Thursday, May  8 2025
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    09:30AM
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:24-cv-06232-WHO - Edgerly v. County of Alameda
+    <br/>
+    Settlement Conference
+   </td>
+  </tr>
+  <tr height="45" valign="bottom">
+   <td class="DATE" colspan="2">
+    Friday, May  9 2025
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    01:30PM
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:23-cv-05270-SK - American Immigration Council et al v. U.S. Customs and Border Protection et al
+    <br/>
+    Pretrial Conference
+   </td>
+  </tr>
+ </tbody>
+</TABLE>
+
+<!-- Source: https://apps.cand.uscourts.gov/CEO/cfd.aspx?B471 -->
+<table class="Calendar">
+ <tbody>
+  <tr>
+   <td align="center" colspan="2">
+    <a name="#top">
+     <strong>
+      Calendar for: Judge Eumi K. Lee
+      <br/>
+      San Jose  - Courtroom 7, 4th Floor
+      <br/>
+      Courtroom Deputy: Laura Thomson
+     </strong>
+    </a>
+    <br/>
+    <br/>
+   </td>
+  </tr>
+  <tr>
+   <td colspan="2">
+    Last Updated: Mar 30 2025  1:02PM
+   </td>
+  </tr>
+  <tr>
+   <td align="" colspan="2">
+    <strong>
+     <a href="#Notes">
+      View Scheduling Notes
+     </a>
+    </strong>
+   </td>
+  </tr>
+  <tr height="45" valign="bottom">
+   <td class="Date" colspan="2">
+    Wednesday, Apr  2 2025
+   </td>
+  </tr>
+  <tr>
+   <td>
+    01:30PM
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    5:24-cv-09522-EKL - P.  v. GMRI, Inc.
+    <br/>
+    For connection information, please see the
+    <a href="https://www.cand.uscourts.gov/ekl">
+     judge's page.
+    </a>
+    <br/>
+    Initial Case Mgmt Conference
+   </td>
+  </tr>
+  <tr height="45" valign="bottom">
+   <td class="DATE" colspan="2">
+    Thursday, Apr  3 2025
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    - Judge Unavailable
+    <br/>
+   </td>
+  </tr>
+  <tr height="45" valign="bottom">
+   <td class="DATE" colspan="2">
+    Friday, Apr  4 2025
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    - Judge Unavailable
+    <br/>
+   </td>
+  </tr>
+  <tr height="45" valign="bottom">
+   <td class="DATE" colspan="2">
+    Monday, Apr  7 2025
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    - Judge Unavailable
+    <br/>
+   </td>
+  </tr>
+  <tr height="45" valign="bottom">
+   <td class="DATE" colspan="2">
+    Tuesday, Apr  8 2025
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    - Judge Unavailable
+    <br/>
+   </td>
+  </tr>
+  <tr height="45" valign="bottom">
+   <td class="DATE" colspan="2">
+    Wednesday, Apr  9 2025
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    - Judge Unavailable
+    <br/>
+   </td>
+  </tr>
+  <tr height="45" valign="bottom">
+   <td class="DATE" colspan="2">
+    Wednesday, Apr 16 2025
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    10:00AM
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    5:24-cv-08243-EKL - Rios v. Community Tree Service, LLC
+    <br/>
+    Initial Case Mgmt Conference
+    <br/>
+    Motion to Dismiss
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    5:25-cv-01034-EKL - Rios v. Community Tree Service, LLC
+    <br/>
+    Initial Case Mgmt Conference
+   </td>
+  </tr>
+  <tr>
+   <td>
+    01:30PM
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    5:23-cv-02518-EKL - Neff v. SBA Entertainment, LLC et al
+    <br/>
+    Status Conference
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    5:24-cv-04004-EKL - BuzzBallz, LLC v. MPL Brands NV, Inc.
+    <br/>
+    Further Case Mgmt Conference
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    5:24-cv-06015-EKL - Fiona et al v. Wu
+    <br/>
+    Initial Case Mgmt Conference
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    5:24-cv-08911-EKL - Gomez v. Arcadia Recovery Bureau LLC
+    <br/>
+    For connection information, please see the
+    <a href="https://www.cand.uscourts.gov/ekl">
+     judge's page.
+    </a>
+    <br/>
+    Initial Case Mgmt Conference
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    5:24-cv-09044-EKL - Perez v. Ford Motor Company
+    <br/>
+    For connection information, please see the
+    <a href="https://www.cand.uscourts.gov/ekl">
+     judge's page.
+    </a>
+    <br/>
+    Initial Case Mgmt Conference
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    5:24-cv-09241-EKL - Cruz et al v. Ford Motor Company
+    <br/>
+    For connection information, please see the
+    <a href="https://www.cand.uscourts.gov/ekl">
+     judge's page.
+    </a>
+    <br/>
+    Initial Case Mgmt Conference
+   </td>
+  </tr>
+  <tr height="45" valign="bottom">
+   <td class="DATE" colspan="2">
+    Wednesday, Apr 23 2025
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    10:00AM
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    5:23-cv-03440-EKL - In re Google Generative AI Copyright Litigation
+    <br/>
+    Motion to Dismiss
+    <br/>
+    Motion to Strike
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    5:24-cv-08598-EKL - Museum of Handcar Technology LLC v. Transportation Agency of Monterey County et al
+    <br/>
+    Motion for Judgment on the Pleadings
+    <br/>
+    Motion to Dismiss
+   </td>
+  </tr>
+  <tr>
+   <td>
+    01:30PM
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    5:24-cv-03811-EKL - Concord Music Group, Inc. et al v. Anthropic PBC
+    <br/>
+    For connection information, please see the
+    <a href="https://www.cand.uscourts.gov/ekl">
+     judge's page.
+    </a>
+    <br/>
+    Further Case Mgmt Conference
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    5:24-cv-04058-EKL - Clark v. Nordic Naturals, Inc.
+    <br/>
+    For connection information, please see the
+    <a href="https://www.cand.uscourts.gov/ekl">
+     judge's page.
+    </a>
+    <br/>
+    Initial Case Mgmt Conference
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    5:24-cv-05833-EKL - Fuller et al v. Verizon Communications, Inc. et al
+    <br/>
+    Initial Case Mgmt Conference
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    5:24-cv-05963-EKL - Hernandez v. Backyard Products LLC
+    <br/>
+    For connection information, please see the
+    <a href="https://www.cand.uscourts.gov/ekl">
+     judge's page.
+    </a>
+    <br/>
+    Initial Case Mgmt Conference
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    5:24-cv-06861-EKL - Viral DRM LLC v. Sharma et al
+    <br/>
+    Initial Case Mgmt Conference
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    5:24-cv-07150-EKL - Corey et al v. Costco Wholesale Corporation et al
+    <br/>
+    For connection information, please see the
+    <a href="https://www.cand.uscourts.gov/ekl">
+     judge's page.
+    </a>
+    <br/>
+    Initial Case Mgmt Conference
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    5:24-cv-09280-EKL - S.R. v. G6 Hospitality Property LLC
+    <br/>
+    For connection information, please see the
+    <a href="https://www.cand.uscourts.gov/ekl">
+     judge's page.
+    </a>
+    <br/>
+    Initial Case Mgmt Conference
+   </td>
+  </tr>
+  <tr height="45" valign="bottom">
+   <td class="DATE" colspan="2">
+    Tuesday, Apr 29 2025
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    10:30AM
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    5:12-cr-00268-EKL - USA v. Carlos DeMartini
+    <br/>
+    Admission Hrg re SRV/PRBV
+    <br/>
+    Sentencing Hrg re SRV/PRBV
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    5:24-cr-00568-EKL - USA v. Jacinto Cruz
+    <br/>
+    Sentencing
+   </td>
+  </tr>
+  <tr height="45" valign="bottom">
+   <td class="DATE" colspan="2">
+    Wednesday, Apr 30 2025
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    10:00AM
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    5:24-cv-03888-EKL - Harvey v. Instant Urgent Care et al
+    <br/>
+    Motion to Dismiss
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    5:24-cv-03972-EKL - Roche Molecular Systems, Inc. et al v. Foresight Diagnostics Inc. et al
+    <br/>
+    Further Case Mgmt Conference
+    <br/>
+    Motion to Dismiss
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    5:24-cv-06920-EKL - Musi Inc. v. Apple Inc.
+    <br/>
+    Motion Hearing
+    <br/>
+    Motion to Dismiss
+   </td>
+  </tr>
+  <tr>
+   <td>
+    01:30PM
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    5:23-cv-06639-EKL - Dutrisac v. STMicroelectronics, Inc. et al
+    <br/>
+    Further Case Mgmt Conference
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    5:24-cv-06472-EKL - Arnold v. Metropolitan Life Insurance Company
+    <br/>
+    Initial Case Mgmt Conference
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    5:24-cv-06941-EKL - Arnold v. New York Life Insurance Company
+    <br/>
+    Initial Case Mgmt Conference
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    5:24-cv-07122-EKL - Arnold v. Metropolitan Life Insurance Company et al
+    <br/>
+    Initial Case Mgmt Conference
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    5:24-cv-08816-EKL - Cadence Design Systems, Inc. v. Suzhou Tianzhun Technology Co., Ltd. et al
+    <br/>
+    For connection information, please see the
+    <a href="https://www.cand.uscourts.gov/ekl">
+     judge's page.
+    </a>
+    <br/>
+    Initial Case Mgmt Conference
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    5:24-cv-08991-EKL - TEEC ANGEL MANAGEMENT, LLC et al v. TSINGYUAN VENTURES LLC et al
+    <br/>
+    For connection information, please see the
+    <a href="https://www.cand.uscourts.gov/ekl">
+     judge's page.
+    </a>
+    <br/>
+    Initial Case Mgmt Conference
+   </td>
+  </tr>
+  <tr height="45" valign="bottom">
+   <td class="DATE" colspan="2">
+    Wednesday, May  7 2025
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    10:00AM
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    5:24-cv-06878-EKL - Sinha v. Apple Inc.
+    <br/>
+    Initial Case Mgmt Conference
+    <br/>
+    Motion to Dismiss
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    5:24-cv-08816-EKL - Cadence Design Systems, Inc. v. Suzhou Tianzhun Technology Co., Ltd. et al
+    <br/>
+    Motion for Miscellaneous Relief
+    <br/>
+    Motion to Dismiss
+   </td>
+  </tr>
+  <tr>
+   <td>
+    01:30PM
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    5:24-cv-06798-EKL - Nguy v. Jabil Inc.
+    <br/>
+    For connection information, please see the
+    <a href="https://www.cand.uscourts.gov/ekl">
+     judge's page.
+    </a>
+    <br/>
+    Initial Case Mgmt Conference
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    5:24-cv-07739-EKL - Marshall v. MC Dean, Inc.
+    <br/>
+    Initial Case Mgmt Conference
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    5:24-cv-09292-EKL - Robinson v. Williams, Rush &amp; Associates LLC
+    <br/>
+    For connection information, please see the
+    <a href="https://www.cand.uscourts.gov/ekl">
+     judge's page.
+    </a>
+    <br/>
+    Initial Case Mgmt Conference
+   </td>
+  </tr>
+ </tbody>
+</TABLE>
+
+<!-- Source: https://apps.cand.uscourts.gov/CEO/cfd.aspx?B417 -->
+<table class="Calendar">
+ <tbody>
+  <tr>
+   <td align="center" colspan="2">
+    <a name="#top">
+     <strong>
+      Calendar for: Judge Rita F. Lin
+      <br/>
+      Courtroom 15, 18th Floor
+      <br/>
+      Courtroom Deputy:  Melinda K. Lock
+     </strong>
+    </a>
+    <br/>
+    <br/>
+   </td>
+  </tr>
+  <tr>
+   <td colspan="2">
+    Last Updated: Mar 30 2025  1:02PM
+   </td>
+  </tr>
+  <tr>
+   <td align="" colspan="2">
+    <strong>
+     <a href="#Notes">
+      View Scheduling Notes
+     </a>
+    </strong>
+   </td>
+  </tr>
+  <tr height="45" valign="bottom">
+   <td class="Date" colspan="2">
+    Monday, Mar 31 2025
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    - Judge Unavailable - All Day
+    <br/>
+   </td>
+  </tr>
+  <tr height="45" valign="bottom">
+   <td class="DATE" colspan="2">
+    Tuesday, Apr  1 2025
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    10:00AM
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    - Civil Law and Motion - In Person
+    <br/>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:25-cv-01311-RFL - Koontz v. Town of Fairfax et al
+    <br/>
+    Motion Hearing
+   </td>
+  </tr>
+  <tr>
+   <td>
+    01:30PM
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    - Civil Law and Motion - Zoom
+    <br/>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:24-cv-04318-RFL - United States of America -v- Peretti et al
+    <br/>
+    Motion Hearing
+   </td>
+  </tr>
+  <tr height="45" valign="bottom">
+   <td class="DATE" colspan="2">
+    Wednesday, Apr  2 2025
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    10:00AM
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:24-cv-08088-RFL - Campbell v. Jaguar Land Rover North America, LLC
+    <br/>
+    For connection information, please see the
+    <a href="https://www.cand.uscourts.gov/rfl">
+     judge's page.
+    </a>
+    <br/>
+    Initial Case Mgmt Conference
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:25-cv-00040-RFL - Iovance Biotherapeutics, Inc. v. Federal Insurance Company
+    <br/>
+    For connection information, please see the
+    <a href="https://www.cand.uscourts.gov/rfl">
+     judge's page.
+    </a>
+    <br/>
+    Initial Case Mgmt Conference
+   </td>
+  </tr>
+  <tr height="45" valign="bottom">
+   <td class="DATE" colspan="2">
+    Thursday, Apr  3 2025
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    02:00PM
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:24-cr-00485-RFL-1 - USA v. Jose Julian Toro-Marin (Custody)(Spanish)
+    <br/>
+    Status Conference
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:24-cr-00536-RFL-1 - USA v. Alvin Yang (Cantonese)
+    <br/>
+    Status Conference
+   </td>
+  </tr>
+  <tr height="45" valign="bottom">
+   <td class="DATE" colspan="2">
+    Tuesday, Apr  8 2025
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    10:00AM
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    - Civil Law and Motion - In Person
+    <br/>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:24-cv-07908-RFL - Short v. ZBS Law LLP et al
+    <br/>
+    Motion for Preliminary Injunction
+    <br/>
+    Motion to Dismiss
+   </td>
+  </tr>
+  <tr height="45" valign="bottom">
+   <td class="DATE" colspan="2">
+    Wednesday, Apr  9 2025
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    10:00AM
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:23-cv-05261-RFL - Omnitracs, LLC et al v. Motive Technologies, Inc.
+    <br/>
+    Excusal Hearing/Final Pretrial Conference
+   </td>
+  </tr>
+  <tr height="45" valign="bottom">
+   <td class="DATE" colspan="2">
+    Thursday, Apr 10 2025
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    02:00PM
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:24-cr-00224-RFL-1 - USA v. Oscar Llewellyn Daniels (Custody)
+    <br/>
+    Change of Plea Hearing
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:24-cr-00541-RFL-1 - USA v. Daniel Adolfo Cruz-Hernandez (Custody)(Spanish)
+    <br/>
+    Sentencing
+   </td>
+  </tr>
+  <tr height="45" valign="bottom">
+   <td class="DATE" colspan="2">
+    Monday, Apr 14 2025
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    08:15AM
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:23-cv-05261-RFL - Omnitracs, LLC et al v. Motive Technologies, Inc.
+    <br/>
+    Jury Selection
+    <br/>
+    Jury Trial
+   </td>
+  </tr>
+  <tr height="45" valign="bottom">
+   <td class="DATE" colspan="2">
+    Tuesday, Apr 15 2025
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    08:15AM
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:23-cv-05261-RFL - Omnitracs, LLC et al v. Motive Technologies, Inc.
+    <br/>
+    Jury Trial
+   </td>
+  </tr>
+  <tr>
+   <td>
+    10:00AM
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    - Closed For Further Settings
+    <br/>
+   </td>
+  </tr>
+  <tr height="45" valign="bottom">
+   <td class="DATE" colspan="2">
+    Wednesday, Apr 16 2025
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    08:15AM
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:23-cv-05261-RFL - Omnitracs, LLC et al v. Motive Technologies, Inc.
+    <br/>
+    Jury Trial
+   </td>
+  </tr>
+  <tr>
+   <td>
+    10:00AM
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    - Closed For Further Settings
+    <br/>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:24-cv-00301-RFL - B. v. CITY AND COUNTY OF SAN FRANCISCO et al
+    <br/>
+    Further Case Mgmt Conference
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:25-cv-00311-RFL - Gerson v. Amazon.com Services LLC
+    <br/>
+    For connection information, please see the
+    <a href="https://www.cand.uscourts.gov/rfl">
+     judge's page.
+    </a>
+    <br/>
+    Initial Case Mgmt Conference
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:25-cv-00481-RFL - Menard, Inc. v. Arbor Home, LLC et al
+    <br/>
+    For connection information, please see the
+    <a href="https://www.cand.uscourts.gov/rfl">
+     judge's page.
+    </a>
+    <br/>
+    Initial Case Mgmt Conference
+   </td>
+  </tr>
+  <tr height="45" valign="bottom">
+   <td class="DATE" colspan="2">
+    Thursday, Apr 17 2025
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    08:15AM
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:23-cv-05261-RFL - Omnitracs, LLC et al v. Motive Technologies, Inc.
+    <br/>
+    Jury Trial
+   </td>
+  </tr>
+  <tr>
+   <td>
+    02:00PM
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    - Criminal Calendar CLOSED
+    <br/>
+   </td>
+  </tr>
+  <tr height="45" valign="bottom">
+   <td class="DATE" colspan="2">
+    Friday, Apr 18 2025
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    08:15AM
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:23-cv-05261-RFL - Omnitracs, LLC et al v. Motive Technologies, Inc.
+    <br/>
+    Jury Trial
+   </td>
+  </tr>
+  <tr height="45" valign="bottom">
+   <td class="DATE" colspan="2">
+    Monday, Apr 21 2025
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    08:15AM
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:23-cv-05261-RFL - Omnitracs, LLC et al v. Motive Technologies, Inc.
+    <br/>
+    Jury Trial
+   </td>
+  </tr>
+  <tr height="45" valign="bottom">
+   <td class="DATE" colspan="2">
+    Tuesday, Apr 22 2025
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    08:15AM
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:23-cv-05261-RFL - Omnitracs, LLC et al v. Motive Technologies, Inc.
+    <br/>
+    Jury Trial
+   </td>
+  </tr>
+  <tr>
+   <td>
+    10:00AM
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    - Closed For Further Settings
+    <br/>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:24-cv-02046-RFL - Luke v. UNUM Life Insurance Company of America
+    <br/>
+    Motion for Judgment as a Matter of Law
+    <br/>
+    Motion Hearing
+   </td>
+  </tr>
+  <tr height="45" valign="bottom">
+   <td class="DATE" colspan="2">
+    Wednesday, Apr 23 2025
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    08:15AM
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:23-cv-05261-RFL - Omnitracs, LLC et al v. Motive Technologies, Inc.
+    <br/>
+    Jury Trial
+   </td>
+  </tr>
+  <tr>
+   <td>
+    10:00AM
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    - Closed For Further Settings
+    <br/>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:25-cv-00428-RFL - Lexclaim Recovery Group US LLC v. Patreon, Inc.
+    <br/>
+    For connection information, please see the
+    <a href="https://www.cand.uscourts.gov/rfl">
+     judge's page.
+    </a>
+    <br/>
+    Initial Case Mgmt Conference
+   </td>
+  </tr>
+  <tr height="45" valign="bottom">
+   <td class="DATE" colspan="2">
+    Thursday, Apr 24 2025
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    08:15AM
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:23-cv-05261-RFL - Omnitracs, LLC et al v. Motive Technologies, Inc.
+    <br/>
+    Jury Trial
+   </td>
+  </tr>
+  <tr>
+   <td>
+    02:00PM
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    - Criminal Calendar CLOSED
+    <br/>
+   </td>
+  </tr>
+  <tr height="45" valign="bottom">
+   <td class="DATE" colspan="2">
+    Friday, Apr 25 2025
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    - Judge Unavailable
+    <br/>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    08:15AM
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:23-cv-05261-RFL - Omnitracs, LLC et al v. Motive Technologies, Inc.
+    <br/>
+    Jury Trial
+   </td>
+  </tr>
+  <tr height="45" valign="bottom">
+   <td class="DATE" colspan="2">
+    Tuesday, Apr 29 2025
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    10:00AM
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    - Closed For Further Settings
+    <br/>
+    <br/>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    - Civil Law and Motion - In Person
+    <br/>
+    <br/>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:23-cv-00770-RFL - Mobley v. Workday, Inc.
+    <br/>
+    Motion to Certify Class
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:23-cv-04119-RFL - Ireland-Gordy et al v. Tile, Inc. et al
+    <br/>
+    Motion to Dismiss
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:23-cv-05131-RFL - Mitchell v. Blue Apron, LLC
+    <br/>
+    Motion Hearing
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:23-cv-05916-RFL - Cadence Design Systems, Inc. v. Fenda USA Inc. et al
+    <br/>
+    Motion for Miscellaneous Relief
+    <br/>
+    Motion to Dismiss
+    <br/>
+    Motion to Set Aside Default
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:24-cv-02434-RFL - Chien et al v. BMW of North America, LLC
+    <br/>
+    Motion Hearing
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:25-cv-00839-RFL - Alexander v. USA Debusk LLC
+    <br/>
+    Motion to Remand
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:25-cv-01311-RFL - Koontz v. Town of Fairfax et al
+    <br/>
+    Motion to Dismiss
+   </td>
+  </tr>
+  <tr height="45" valign="bottom">
+   <td class="DATE" colspan="2">
+    Wednesday, Apr 30 2025
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    10:00AM
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:24-cv-01062-RFL - Shah v. Fandom, Inc.
+    <br/>
+    For connection information, please see the
+    <a href="https://www.cand.uscourts.gov/rfl">
+     judge's page.
+    </a>
+    <br/>
+    Further Case Mgmt Conference
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:24-cv-08704-RFL - Never-Search, Inc. v. System1 opco LLC, et al
+    <br/>
+    For connection information, please see the
+    <a href="https://www.cand.uscourts.gov/rfl">
+     judge's page.
+    </a>
+    <br/>
+    Initial Case Mgmt Conference
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:25-cv-00523-RFL - Hawkins v. Loomis Armored US, LLC
+    <br/>
+    For connection information, please see the
+    <a href="https://www.cand.uscourts.gov/rfl">
+     judge's page.
+    </a>
+    <br/>
+    Initial Case Mgmt Conference
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:25-cv-00763-RFL - Perez v. The Lincoln National Life Insurance Company
+    <br/>
+    For connection information, please see the
+    <a href="https://www.cand.uscourts.gov/rfl">
+     judge's page.
+    </a>
+    <br/>
+    Initial Case Mgmt Conference
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:25-cv-00884-RFL - Hicks v. Coho Financial et al
+    <br/>
+    For connection information, please see the
+    <a href="https://www.cand.uscourts.gov/rfl">
+     judge's page.
+    </a>
+    <br/>
+    Initial Case Mgmt Conference
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:25-cv-00925-RFL - Armstrong v. Paramount Global et al
+    <br/>
+    For connection information, please see the
+    <a href="https://www.cand.uscourts.gov/rfl">
+     judge's page.
+    </a>
+    <br/>
+    Initial Case Mgmt Conference
+   </td>
+  </tr>
+  <tr height="45" valign="bottom">
+   <td class="DATE" colspan="2">
+    Thursday, May  1 2025
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    10:00AM
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:23-cv-03414-RFL - Gold v. California Highway Patrol et al
+    <br/>
+    Administrative Motion per Civil Local Rule 7-11
+    <br/>
+    Motion for Hearing
+    <br/>
+    Pretrial Conference
+   </td>
+  </tr>
+  <tr>
+   <td>
+    02:00PM
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:24-cr-00081-RFL - USA v. George Aboagye
+    <br/>
+    Status Conference
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:24-cr-00081-RFL - USA v. Dennis Jordan
+    <br/>
+    Status Conference
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:24-cr-00081-RFL - USA v. Emmanuel Awuah
+    <br/>
+    Status Conference
+   </td>
+  </tr>
+  <tr height="45" valign="bottom">
+   <td class="DATE" colspan="2">
+    Tuesday, May  6 2025
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    10:00AM
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    - Civil Law and Motion - In Person
+    <br/>
+    <br/>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    - Closed For Further Settings
+    <br/>
+    <br/>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:22-cv-04422-RFL - BOHANNON et al v. MCDONALD et al
+    <br/>
+    Motion Hearing
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:24-cv-03439-RFL - Knapps v. Geo Group, Inc.
+    <br/>
+    Motion to Dismiss
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:25-cv-00022-RFL - Herrera v. Ontrac Logistics, Inc. et al
+    <br/>
+    Motion to Compel
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:25-cv-01870-RFL - Villatoro et al v. Wal-Mart Associates, Inc.
+    <br/>
+    Motion to Change Venue
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:25-cv-02085-RFL - Nor-Cal Moving Services v. Paylocity Corp.
+    <br/>
+    Motion to Dismiss
+   </td>
+  </tr>
+  <tr height="45" valign="bottom">
+   <td class="DATE" colspan="2">
+    Wednesday, May  7 2025
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    10:00AM
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:22-cv-01113-RFL - Tudor v. State Farm General Insurance Company
+    <br/>
+    For connection information, please see the
+    <a href="https://www.cand.uscourts.gov/rfl">
+     judge's page.
+    </a>
+    <br/>
+    Further Case Mgmt Conference
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:23-cv-01186-RFL - AMI - Government Employees Provident Fund Management Company Ltd. v. Alphabet Inc. et al
+    <br/>
+    For connection information, please see the
+    <a href="https://www.cand.uscourts.gov/rfl">
+     judge's page.
+    </a>
+    <br/>
+    Initial Case Mgmt Conference
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:23-cv-01359-RFL - Carrillo et al v. Amy's Kitchen, Inc. et al
+    <br/>
+    For connection information, please see the
+    <a href="https://www.cand.uscourts.gov/rfl">
+     judge's page.
+    </a>
+    <br/>
+    Initial Case Mgmt Conference
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:23-cv-01454-RFL - DeBenedetti Investment Associates v. Circraft Incorporated et al
+    <br/>
+    Further Case Mgmt Conference
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:25-cv-00911-RFL - Darden v. Anthem Blue Cross Life and Health Insurance Company (Long-Term Disability (LTD) Plan)/Elevance Health
+    <br/>
+    For connection information, please see the
+    <a href="https://www.cand.uscourts.gov/rfl">
+     judge's page.
+    </a>
+    <br/>
+    Initial Case Mgmt Conference
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:25-cv-00991-RFL - Williams v. Affirm Holdings, Inc.
+    <br/>
+    For connection information, please see the
+    <a href="https://www.cand.uscourts.gov/rfl">
+     judge's page.
+    </a>
+    <br/>
+    Initial Case Mgmt Conference
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:25-cv-00993-RFL - Chau et al v. Jaguar Land Rover North America, LLC. et al
+    <br/>
+    For connection information, please see the
+    <a href="https://www.cand.uscourts.gov/rfl">
+     judge's page.
+    </a>
+    <br/>
+    Initial Case Mgmt Conference
+   </td>
+  </tr>
+  <tr height="45" valign="bottom">
+   <td class="DATE" colspan="2">
+    Thursday, May  8 2025
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    02:00PM
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:24-cr-00621-RFL - USA v. Patrick Cruz
+    <br/>
+    Status Conference
+   </td>
+  </tr>
+ </tbody>
+</TABLE>
+
+<!-- Source: https://apps.cand.uscourts.gov/CEO/cfd.aspx?B375 -->
+<table class="Calendar">
+ <tbody>
+  <tr>
+   <td align="center" colspan="2">
+    <a name="#top">
+     <strong>
+      Calendar for: Judge Araceli Martínez-Olguín
+      <br/>
+      Civil Calendar: San Francisco, Ctrm 10, 19th Floor. Criminal Calendar: Oakland, Ctrm 3, 3rd Floor.
+      <br/>
+      Courtroom Deputy:  Alexis Solorzano-Rodriguez
+     </strong>
+    </a>
+    <br/>
+    <br/>
+   </td>
+  </tr>
+  <tr>
+   <td colspan="2">
+    Last Updated: Mar 30 2025  1:02PM
+   </td>
+  </tr>
+  <tr>
+   <td align="" colspan="2">
+    <strong>
+     <a href="#Notes">
+      View Scheduling Notes
+     </a>
+    </strong>
+   </td>
+  </tr>
+  <tr height="45" valign="bottom">
+   <td class="Date" colspan="2">
+    Monday, Mar 31 2025
+   </td>
+  </tr>
+  <tr>
+   <td>
+    01:00PM
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    4:24-cr-00056-AMO - USA v. Zuri Njoku
+    <br/>
+    Status Conference
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    4:24-cr-00283-AMO - USA v. Lane Jenkins
+    <br/>
+    Change of Plea Hearing
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    4:24-cr-00403-AMO - USA v. Carrie Grant
+    <br/>
+    Status Conference
+   </td>
+  </tr>
+  <tr>
+   <td>
+    02:00PM
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    4:24-cr-00486-AMO - USA v. Kenneth Brown
+    <br/>
+    Change of Plea Hearing
+   </td>
+  </tr>
+  <tr height="45" valign="bottom">
+   <td class="DATE" colspan="2">
+    Tuesday, Apr  1 2025
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    10:00AM
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:25-cv-02847-AMO - Community Legal Services in East Palo Alto et al v. United States Department of Health and Human Services et al
+    <br/>
+    Temporary Restraining Order
+   </td>
+  </tr>
+  <tr height="45" valign="bottom">
+   <td class="DATE" colspan="2">
+    Thursday, Apr  3 2025
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    10:00AM
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:23-cv-00939-AMO - Drake v. Haier US Appliance Solutions Inc.
+    <br/>
+    Initial Case Mgmt Conference
+   </td>
+  </tr>
+  <tr height="45" valign="bottom">
+   <td class="DATE" colspan="2">
+    Friday, Apr  4 2025
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    10:00AM
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    4:24-cr-00044-AMO - USA v. Joshua Thompson
+    <br/>
+    Motion for Miscellaneous Relief
+   </td>
+  </tr>
+  <tr>
+   <td>
+    10:30AM
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    4:24-cr-00044-AMO - USA v. Joshua Thompson
+    <br/>
+    Evidentiary Hearing
+   </td>
+  </tr>
+  <tr height="45" valign="bottom">
+   <td class="DATE" colspan="2">
+    Monday, Apr  7 2025
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    - Judge Unavailable - All Day
+    <br/>
+   </td>
+  </tr>
+  <tr height="45" valign="bottom">
+   <td class="DATE" colspan="2">
+    Tuesday, Apr  8 2025
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    - Judge Unavailable - All Day
+    <br/>
+   </td>
+  </tr>
+  <tr height="45" valign="bottom">
+   <td class="DATE" colspan="2">
+    Wednesday, Apr  9 2025
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    - Judge Unavailable - All Day
+    <br/>
+   </td>
+  </tr>
+  <tr height="45" valign="bottom">
+   <td class="DATE" colspan="2">
+    Thursday, Apr 10 2025
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    - Judge Unavailable - All Day
+    <br/>
+   </td>
+  </tr>
+  <tr height="45" valign="bottom">
+   <td class="DATE" colspan="2">
+    Friday, Apr 11 2025
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    - Judge Unavailable - All Day
+    <br/>
+   </td>
+  </tr>
+  <tr height="45" valign="bottom">
+   <td class="DATE" colspan="2">
+    Monday, Apr 14 2025
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    02:00PM
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    4:13-cr-00732-AMO - USA v. Rafael Mendez
+    <br/>
+    Status Conference
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    4:24-cr-00506-AMO - USA v. Oluwatobi Otukelu
+    <br/>
+    Status Conference
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    4:24-cr-00506-AMO - USA v. Evan Edwards
+    <br/>
+    Status Conference
+   </td>
+  </tr>
+  <tr height="45" valign="bottom">
+   <td class="DATE" colspan="2">
+    Tuesday, Apr 15 2025
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    02:00PM
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:18-cv-07365-AMO - Land v. Rodriguez et al
+    <br/>
+    Motion to Dismiss
+   </td>
+  </tr>
+  <tr height="45" valign="bottom">
+   <td class="DATE" colspan="2">
+    Thursday, Apr 17 2025
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    10:00AM
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:24-cv-08167-AMO - Dawson et al v. Target Corporation et al
+    <br/>
+    Initial Case Mgmt Conference
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:25-cv-00317-AMO - Cadence Design Systems, Inc. v. Yunjing Intelligent Innovation (Shenzhen) Co., Ltd. et al
+    <br/>
+    Initial Case Mgmt Conference
+   </td>
+  </tr>
+  <tr>
+   <td>
+    10:30AM
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:24-cv-06829-AMO - Navarro v. Apartment Management Consultants, LLC
+    <br/>
+    For connection information, please see the
+    <a href="https://www.cand.uscourts.gov/amo">
+     judge's page.
+    </a>
+    <br/>
+    Initial Case Mgmt Conference
+   </td>
+  </tr>
+  <tr>
+   <td>
+    02:00PM
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:23-cv-02940-AMO - Kusen v. Herbert, II et al
+    <br/>
+    Motion Hearing
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:23-cv-03223-AMO - Tremblay et al v. OpenAI, Inc. et al
+    <br/>
+    Motion Hearing
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:24-cv-01632-AMO - Nado v. John Muir Health et al
+    <br/>
+    Motion for Settlement
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:24-cv-03873-AMO - Chin v. Tesla, Inc.
+    <br/>
+    Motion to Compel
+    <br/>
+    Motion to Strike
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:24-cv-07705-AMO - Lacuna Sustainable Investments, LLC et al v. Victory Capital Management, Inc et al
+    <br/>
+    Motion to Stay
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:25-cv-01378-AMO - Torres, Jr. et al v. Airbnb, Inc.
+    <br/>
+    Motion to Dismiss
+   </td>
+  </tr>
+  <tr height="45" valign="bottom">
+   <td class="DATE" colspan="2">
+    Monday, Apr 21 2025
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    11:00AM
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:24-cv-03967-AMO - United States of America v. iRhythm Technologies, Inc.
+    <br/>
+    Motion Hearing
+   </td>
+  </tr>
+  <tr>
+   <td>
+    02:00PM
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    4:08-cr-00807-AMO - USA v. Marvin Young
+    <br/>
+    Status Conference re SRV/PRBV
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    4:23-cr-00496-AMO - USA v. Jose Ponce
+    <br/>
+    Change of Plea Hearing
+   </td>
+  </tr>
+  <tr height="45" valign="bottom">
+   <td class="DATE" colspan="2">
+    Thursday, Apr 24 2025
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    10:00AM
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:24-cv-02411-AMO - Greist et al v. LendUS, LLC et al
+    <br/>
+    Initial Case Mgmt Conference
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:24-cv-04501-AMO - Starzinski et al v. Meta Platforms, Inc.
+    <br/>
+    Initial Case Mgmt Conference
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:24-cv-07964-AMO - Lothrop v. Western Trails Charters &amp; Tours et al
+    <br/>
+    Initial Case Mgmt Conference
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:24-cv-08301-AMO - Doe v. G6 Hospitality, LLC et al
+    <br/>
+    Initial Case Mgmt Conference
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:25-cv-00696-AMO - Oswald v. MV Transportation, Inc. et al
+    <br/>
+    Initial Case Mgmt Conference
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:25-cv-00698-AMO - P.S., a minor et al v. Landowners of Oakland Airport Hotel, Ltd.
+    <br/>
+    Initial Case Mgmt Conference
+   </td>
+  </tr>
+  <tr>
+   <td>
+    02:00PM
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:22-cv-01202-AMO - K. et al v. Sonoma County et al
+    <br/>
+    Motion Hearing
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:22-cv-04809-AMO - LED Wafer Solutions LLC v. Samsung Electronics Co., Ltd. et al
+    <br/>
+    Motion for Leave to File
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:23-cv-03908-AMO - Han v. Pfizer Inc. et al
+    <br/>
+    Withdraw as Party's Only Attorney
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:24-cv-03616-AMO -  Jennifer Layfield v. Unum Life Insurance Company of America
+    <br/>
+    For connection information, please see the
+    <a href="https://www.cand.uscourts.gov/amo">
+     judge's page.
+    </a>
+    <br/>
+    Motion Hearing
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:24-cv-04898-AMO - ART Research and Technology LLC v. Google, LLC et al
+    <br/>
+    Motion Hearing
+   </td>
+  </tr>
+  <tr height="45" valign="bottom">
+   <td class="DATE" colspan="2">
+    Friday, Apr 25 2025
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    - Judge Unavailable - All Day
+    <br/>
+   </td>
+  </tr>
+  <tr height="45" valign="bottom">
+   <td class="DATE" colspan="2">
+    Monday, Apr 28 2025
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    02:00PM
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    4:23-cr-00318-AMO - USA v. Darneko Yates
+    <br/>
+    Sentencing
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    4:23-cr-00381-AMO - USA v. Dorian Miles
+    <br/>
+    Status Conference re SRV/PRBV
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    4:23-cr-00191-AMO - USA v. Garland Rabon
+    <br/>
+    Status Conference
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    4:24-cr-00421-AMO - USA v. Terrance King
+    <br/>
+    Sentencing
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    4:23-cr-00191-AMO - USA v. Aramiya Burrell
+    <br/>
+    Status Conference
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    4:23-cr-00191-AMO - USA v. Danny Garcia
+    <br/>
+    Status Conference
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    4:23-cr-00191-AMO - USA v. Lester Garnett
+    <br/>
+    Status Conference
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    4:23-cr-00191-AMO - USA v. Darrin Hutchinson
+    <br/>
+    Status Conference
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    4:23-cr-00191-AMO - USA v. Ricky Joseph
+    <br/>
+    Status Conference
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    4:24-cr-00608-AMO - USA v. Rufus Barker
+    <br/>
+    Status Conference
+   </td>
+  </tr>
+  <tr height="45" valign="bottom">
+   <td class="DATE" colspan="2">
+    Thursday, May  1 2025
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    10:00AM
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:24-cv-00677-AMO - GXM et al v. Connie et al
+    <br/>
+    Initial Case Mgmt Conference
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:24-cv-07861-AMO - Loza et al v. Hobby Lobby Stores, Inc.
+    <br/>
+    Further Case Mgmt Conference
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:24-cv-08749-AMO - GS Labs, LLC v. Cigna Health and Life Insurance Company et al
+    <br/>
+    Initial Case Mgmt Conference
+   </td>
+  </tr>
+  <tr>
+   <td>
+    10:30AM
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:24-cv-03810-AMO - The Travelers Indemnity Company of Connecticut et al v. West American Insurance Company et al
+    <br/>
+    Status Conference
+   </td>
+  </tr>
+  <tr>
+   <td>
+    02:00PM
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:22-cv-02094-AMO - In re Lucid Group, Inc. Securities Litigation
+    <br/>
+    Motion to Dismiss
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:23-cv-01054-AMO - McClean et al v. Solano/Napa Counties Electrical Workers Profit Sharing Plan et al
+    <br/>
+    Motion Hearing
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:23-cv-01690-AMO - P2I Ltd. v. Favored Tech USA Corporation et al
+    <br/>
+    Motion for Attorney Fees
+    <br/>
+    Motion for Judgment on the Pleadings
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:24-cv-00677-AMO - GXM et al v. Connie et al
+    <br/>
+    Motion to Dismiss
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:24-cv-04188-AMO - Austin v. Kia Corporation et al
+    <br/>
+    For connection information, please see the
+    <a href="https://www.cand.uscourts.gov/amo">
+     judge's page.
+    </a>
+    <br/>
+    Motion Hearing
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:25-cv-01397-AMO - Karam v. Meta Platforms, Inc.
+    <br/>
+    Motion to Dismiss
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:25-cv-02523-AMO - Hunter Jr. v. Allied Packing &amp; Supply, Inc. et al
+    <br/>
+    Motion to Dismiss
+   </td>
+  </tr>
+  <tr height="45" valign="bottom">
+   <td class="DATE" colspan="2">
+    Monday, May  5 2025
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    02:00PM
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    4:23-cr-00191-AMO - USA v. Demarco Barnett
+    <br/>
+    Sentencing
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    4:23-cr-00248-AMO - USA v. Ryan Montgomery
+    <br/>
+    Status Conference
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    4:23-cr-00349-AMO - USA v. Elvin Melendez-Cruz
+    <br/>
+    Sentencing
+   </td>
+  </tr>
+  <tr height="45" valign="bottom">
+   <td class="DATE" colspan="2">
+    Thursday, May  8 2025
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    10:00AM
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:24-cv-07970-AMO - NY Black and Gold Corporation v. Guardsafe Technologies Corporation
+    <br/>
+    Initial Case Mgmt Conference
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:24-cv-08178-AMO - Lewis v. Tesla, Inc.
+    <br/>
+    Initial Case Mgmt Conference
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:24-cv-08744-VC - Deddeh v. Nexstar Media Inc.
+    <br/>
+    Initial Case Mgmt Conference
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:24-cv-09042-AMO - Orellana v. Mercedes-Benz USA, LLC
+    <br/>
+    Initial Case Mgmt Conference
+   </td>
+  </tr>
+  <tr>
+   <td>
+    10:30AM
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:22-cv-02010-AMO - Chang v. Cashman et al
+    <br/>
+    Status Conference
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:24-cv-00361-AMO - Fried v. City of Pleasant Hill
+    <br/>
+    Status Conference
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:24-cv-03617-AMO - Awwad v. Ford Motor Company
+    <br/>
+    Status Conference
+   </td>
+  </tr>
+  <tr>
+   <td>
+    02:00PM
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:22-cv-00081-AMO - Toledo v. Delta Air Lines, Inc.
+    <br/>
+    Motion Hearing
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:23-cv-01320-AMO - Dickerson v. Macmillan et al
+    <br/>
+    Motion to Dismiss
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:23-cv-05218-AMO - Doe et al v. The Ritz-Carlton Hotel Company, L.L.C. et al
+    <br/>
+    Motion Hearing
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3:25-cv-00663-AMO - Campos v. Green Diamond Resource Company
+    <br/>
+    Motion to Dismiss
+    <br/>
+    Motion to Remand
+   </td>
+  </tr>
+ </tbody>
+</TABLE>

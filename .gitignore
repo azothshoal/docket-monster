@@ -1,0 +1,25 @@
+# Credentials
+.env
+k3s/secret.yaml
+
+# Pipeline output — regenerated on each run
+schedule.csv
+enriched.csv
+relevant.csv
+failed_lookups.txt
+
+# Cache — persistent but not versioned
+courtlistener_cache.json
+raw_html/
+
+# Docker
+*.tar
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# macOS
+.DS_Store

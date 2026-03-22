@@ -1,0 +1,605 @@
+<!-- Source: https://apps.cand.uscourts.gov/CEO/cfd.aspx?B520 -->
+<table class="Calendar">
+ <tbody>
+  <tr>
+   <td align="center" colspan="2">
+    <a name="#top">
+     <strong>
+      Calendar for: Judge Noël Wise
+      <br/>
+      5th Floor, Courtroom 3
+      <br/>
+      Courtroom Deputy: Allie Warren
+     </strong>
+    </a>
+    <br/>
+    <br/>
+   </td>
+  </tr>
+  <tr>
+   <td colspan="2">
+    Last Updated: Mar 30 2025  1:02PM
+   </td>
+  </tr>
+  <tr>
+   <td align="" colspan="2">
+    <strong>
+     <a href="#Notes">
+      View Scheduling Notes
+     </a>
+    </strong>
+   </td>
+  </tr>
+  <tr height="45" valign="bottom">
+   <td class="Date" colspan="2">
+    Monday, Mar 31 2025
+   </td>
+  </tr>
+  <tr>
+   <td>
+    09:00AM
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    5:24-cv-07172-NW - Akinlemibola v. Intuit, Inc.
+    <br/>
+    Motion to Disqualify Judge
+   </td>
+  </tr>
+  <tr height="45" valign="bottom">
+   <td class="DATE" colspan="2">
+    Tuesday, Apr  1 2025
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    09:00AM
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    5:23-cv-03220-NW - Nguyen v. United Airlines, Inc. et al
+    <br/>
+    Further Case Mgmt Conference
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    5:23-cv-05607-NW -  Tavantzis v. American Airlines, Inc.
+    <br/>
+    Further Case Mgmt Conference
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    5:23-cv-06288-NW - Keezio Group v. SlumberPod, LLC
+    <br/>
+    Further Case Mgmt Conference
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    5:24-cv-03630-NW - United States v. Adobe, Inc. et al
+    <br/>
+    Further Case Mgmt Conference
+   </td>
+  </tr>
+  <tr height="45" valign="bottom">
+   <td class="DATE" colspan="2">
+    Wednesday, Apr  9 2025
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    09:00AM
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    5:23-cv-00778-NW - Lee v. City of San Jose
+    <br/>
+    Motion Hearing
+   </td>
+  </tr>
+  <tr height="45" valign="bottom">
+   <td class="DATE" colspan="2">
+    Friday, Apr 11 2025
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    - Judge Unavailable All Day
+    <br/>
+   </td>
+  </tr>
+  <tr height="45" valign="bottom">
+   <td class="DATE" colspan="2">
+    Tuesday, Apr 15 2025
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    09:00AM
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    5:24-cv-09225-NW - Dehcheshmeh v. BMO Bank National Association et al
+    <br/>
+    For connection information, please see the
+    <a href="https://www.cand.uscourts.gov/nw">
+     judge's page.
+    </a>
+    <br/>
+    Initial Case Mgmt Conference
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    5:24-cv-09327-NW - Perez v. Volkswagen Group of America, Inc.
+    <br/>
+    For connection information, please see the
+    <a href="https://www.cand.uscourts.gov/nw">
+     judge's page.
+    </a>
+    <br/>
+    Initial Case Mgmt Conference
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    5:24-cv-09395-NW - Devcon Construction Incorporated v. Homeland Insurance Company of New York et al
+    <br/>
+    For connection information, please see the
+    <a href="https://www.cand.uscourts.gov/nw">
+     judge's page.
+    </a>
+    <br/>
+    Initial Case Mgmt Conference
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    5:25-cv-00182-NW - Mayer v. HSBC Bank USA, National Association et al
+    <br/>
+    For connection information, please see the
+    <a href="https://www.cand.uscourts.gov/nw">
+     judge's page.
+    </a>
+    <br/>
+    Initial Case Mgmt Conference
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    5:25-cv-00253-NW - Aoraki Holdings PTY LTD.  v. 4NUTES.COM et al
+    <br/>
+    For connection information, please see the
+    <a href="https://www.cand.uscourts.gov/nw">
+     judge's page.
+    </a>
+    <br/>
+    Initial Case Mgmt Conference
+   </td>
+  </tr>
+  <tr>
+   <td>
+    10:00AM
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    5:23-cv-01097-NW - In re SVB Financial Group Securities Litigation
+    <br/>
+    Initial Case Mgmt Conference
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    5:24-cv-00478-NW - TIAA-CREF Investment Management, LLC et al v. Becker et al
+    <br/>
+    Initial Case Mgmt Conference
+   </td>
+  </tr>
+  <tr height="45" valign="bottom">
+   <td class="DATE" colspan="2">
+    Wednesday, Apr 16 2025
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    09:00AM
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    5:24-cv-00593-NW - Thornton v. Mindvalley, Inc.
+    <br/>
+    Motion for Settlement
+    <br/>
+    Motion Hearing
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    5:24-cv-07452-NW - Machinski v. Ally Bank et al
+    <br/>
+    Motion Hearing
+   </td>
+  </tr>
+  <tr height="45" valign="bottom">
+   <td class="DATE" colspan="2">
+    Tuesday, Apr 22 2025
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    10:00AM
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    5:24-cv-06239-NW - Wade v. Santa Clara County et al
+    <br/>
+    Order to Show Cause Hearing
+   </td>
+  </tr>
+  <tr>
+   <td>
+    01:30PM
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    5:25-cr-00047-NW - USA v. Jeffrey Price
+    <br/>
+    Status Conference
+   </td>
+  </tr>
+  <tr height="45" valign="bottom">
+   <td class="DATE" colspan="2">
+    Wednesday, Apr 23 2025
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    09:00AM
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    5:23-cv-04781-NW - Gazaway et al v. Nelson et al
+    <br/>
+    Motion Hearing
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    5:24-cv-02592-NW - Commure, Inc. v. Canopy Works, Inc.
+    <br/>
+    Further Case Mgmt Conference
+    <br/>
+    Motion Hearing
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    5:24-cv-04493-NW - California Spine and Neurosurgery Institute v. Carpenters Health and Welfare Trust Fund for California, Inc.
+    <br/>
+    Motion Hearing
+   </td>
+  </tr>
+  <tr height="45" valign="bottom">
+   <td class="DATE" colspan="2">
+    Friday, Apr 25 2025
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    - Judge Unavailable All Day
+    <br/>
+   </td>
+  </tr>
+  <tr height="45" valign="bottom">
+   <td class="DATE" colspan="2">
+    Tuesday, Apr 29 2025
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    09:00AM
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    5:24-cv-02620-NW - Kitchens v. Whisenhunt et al
+    <br/>
+    Order to Show Cause Hearing
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    5:24-cv-04939-NW - Smith v. Shiah et al
+    <br/>
+    Motion Hearing
+   </td>
+  </tr>
+  <tr height="45" valign="bottom">
+   <td class="DATE" colspan="2">
+    Wednesday, Apr 30 2025
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    09:00AM
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    5:24-cv-05107-NW - Doe v. Apple Inc.
+    <br/>
+    Initial Case Mgmt Conference
+    <br/>
+    Motion Hearing
+    <br/>
+    Motion to Stay
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    5:25-cv-00642-NW - Gonsalves v. Block, Inc. et al
+    <br/>
+    Motion Hearing
+    <br/>
+    Motion to Appoint Lead Plaintiff and Lead Counsel
+   </td>
+  </tr>
+  <tr height="45" valign="bottom">
+   <td class="DATE" colspan="2">
+    Tuesday, May  6 2025
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    09:00AM
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    5:24-cv-09268-NW - M.B. v. G6 Hospitality Property LLC
+    <br/>
+    For connection information, please see the
+    <a href="https://www.cand.uscourts.gov/nw">
+     judge's page.
+    </a>
+    <br/>
+    Initial Case Mgmt Conference
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    5:24-cv-09285-NW - F.J. v. G6 Hospitality Property LLC
+    <br/>
+    For connection information, please see the
+    <a href="https://www.cand.uscourts.gov/nw">
+     judge's page.
+    </a>
+    <br/>
+    Initial Case Mgmt Conference
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    5:25-cv-00835-NW - Esquivel et al v. Ford Motor Company
+    <br/>
+    For connection information, please see the
+    <a href="https://www.cand.uscourts.gov/nw">
+     judge's page.
+    </a>
+    <br/>
+    Initial Case Mgmt Conference
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    5:25-cv-00860-NW - VirtaMove, Corp. v. Google LLC
+    <br/>
+    For connection information, please see the
+    <a href="https://www.cand.uscourts.gov/nw">
+     judge's page.
+    </a>
+    <br/>
+    Initial Case Mgmt Conference
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    5:25-cv-00924-NW - Walther v. The Paul Revere Life Insurance Company
+    <br/>
+    For connection information, please see the
+    <a href="https://www.cand.uscourts.gov/nw">
+     judge's page.
+    </a>
+    <br/>
+    Initial Case Mgmt Conference
+   </td>
+  </tr>
+  <tr height="45" valign="bottom">
+   <td class="DATE" colspan="2">
+    Wednesday, May  7 2025
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    09:00AM
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    5:25-cv-00342-NW - Wang v. Chan et al
+    <br/>
+    Motion to Sever
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    5:25-cv-01644-NW - Invisible Narratives v. Next Level Apps Technology - FZCO
+    <br/>
+    Motion Hearing
+   </td>
+  </tr>
+ </tbody>
+</TABLE>

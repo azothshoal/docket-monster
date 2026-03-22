@@ -1,0 +1,1 @@
+A Docket Monster: A pokemon-like monster that has multiple spider legs, and two arms and holds a gavel in one hand and a white powdered wig. the background must be a different color from the others in the image
