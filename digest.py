@@ -1,0 +1,186 @@
+"""
+digest.py — Format relevant.csv as an HTML email and send with CSV attachments.
+
+Reads:  relevant.csv  — tech/privacy cases for the coming week
+        enriched.csv  — full two-week schedule with CourtListener data
+Sends:  HTML email to RECIPIENT_EMAIL via Gmail SMTP
+        Attachments: relevant.csv, enriched.csv
+
+Required .env vars:
+  GMAIL_USER          sender Gmail address
+  GMAIL_APP_PASSWORD  Gmail App Password (not your real password)
+  RECIPIENT_EMAIL     recipient address
+"""
+
+import os
+import csv
+import smtplib
+import logging
+from datetime import datetime
+from email.mime.multipart import MIMEMultipart
+from email.mime.text import MIMEText
+from email.mime.base import MIMEBase
+from email import encoders
+from dotenv import load_dotenv
+
+load_dotenv()
+logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s")
+logger = logging.getLogger(__name__)
+
+RELEVANT_FILE = "relevant.csv"
+ENRICHED_FILE = "enriched.csv"
+FAILED_FILE = "failed_lookups.txt"
+
+GMAIL_USER = os.getenv("GMAIL_USER")
+GMAIL_APP_PASSWORD = os.getenv("GMAIL_APP_PASSWORD")
+RECIPIENT_EMAIL = os.getenv("RECIPIENT_EMAIL")
+
+
+def load_csv(path: str) -> list[dict]:
+    if not os.path.exists(path):
+        raise FileNotFoundError(f"'{path}' not found.")
+    with open(path, newline="", encoding="utf-8") as f:
+        return list(csv.DictReader(f))
+
+
+def parse_date(date_str: str) -> datetime:
+    normalized = " ".join(date_str.split())
+    for fmt in ("%A, %b %d %Y", "%A, %B %d %Y"):
+        try:
+            return datetime.strptime(normalized, fmt)
+        except ValueError:
+            continue
+    return datetime.min
+
+
+def build_html(rows: list[dict], failed: list[str] = None) -> str:
+    today = datetime.now().strftime("%B %d, %Y")
+
+    if not rows:
+        body = "<p>No relevant tech/privacy cases found for the coming week.</p>"
+    else:
+        by_date: dict[str, list] = {}
+        for row in rows:
+            by_date.setdefault(row["date"], []).append(row)
+
+        table_rows = ""
+        for date in sorted(by_date, key=parse_date):
+            first = True
+            for row in by_date[date]:
+                cl_url = row.get("cl_url", "")
+                case_name = row.get("case_name", "") or row.get("case_number", "")
+                case_link = f'<a href="{cl_url}">{case_name}</a>' if cl_url else case_name
+                date_cell = f'<td rowspan="{len(by_date[date])}" style="background:#f5f5f5; font-weight:bold; vertical-align:top">{date}</td>' if first else ""
+                first = False
+
+                table_rows += f"""
+                <tr>
+                    {date_cell}
+                    <td>{row.get("time", "")}</td>
+                    <td>{row.get("judge", "")}</td>
+                    <td>{row.get("location", "")}</td>
+                    <td>{row.get("courtroom", "")}</td>
+                    <td style="font-family:monospace; font-size:12px">{row.get("case_number", "")}</td>
+                    <td>{case_link}</td>
+                    <td>{row.get("cause", "")}</td>
+                    <td style="color:#666; font-size:12px">{row.get("relevance_reasons", "")}</td>
+                </tr>"""
+
+        body = f"""
+        <table border="1" cellpadding="8" cellspacing="0"
+               style="border-collapse:collapse; font-family:sans-serif; font-size:13px; width:100%">
+            <thead style="background:#1a3a5c; color:white;">
+                <tr>
+                    <th>Date</th>
+                    <th>Time</th>
+                    <th>Judge</th>
+                    <th>Location</th>
+                    <th>Courtroom</th>
+                    <th>Case Number</th>
+                    <th>Case Name</th>
+                    <th>Cause</th>
+                    <th>Why Relevant</th>
+                </tr>
+            </thead>
+            <tbody>{table_rows}</tbody>
+        </table>"""
+
+    failed_section = ""
+    if failed:
+        case_list = "".join(f"<li><code>{c}</code></li>" for c in failed)
+        failed_section = f"""
+    <br>
+    <div style="background:#fff3cd; border:1px solid #ffc107; padding:12px; border-radius:4px">
+        <strong>⚠️ {len(failed)} case(s) could not be enriched via CourtListener</strong> (API timeout/error after retries).
+        These cases appear in the schedule but may be missing from relevant.csv if they would otherwise qualify.
+        Manual check recommended:
+        <ul style="margin:8px 0 0 0">{case_list}</ul>
+    </div>"""
+
+    return f"""<html><body style="font-family:sans-serif; max-width:1200px; margin:0 auto; padding:20px">
+    <h2 style="color:#1a3a5c">Docket Monster — Week of {today}</h2>
+    <p style="color:#444">{len(rows)} relevant tech/privacy/AI case(s) scheduled for the coming week.
+    Full enriched schedule (14 days) attached as <code>enriched.csv</code>.</p>
+    {body}
+    {failed_section}
+    <br>
+    <p style="color:#aaa; font-size:11px">Generated by Docket Monster &middot; Enriched via CourtListener</p>
+</body></html>"""
+
+
+def attach_csv(msg: MIMEMultipart, filepath: str, filename: str):
+    with open(filepath, "rb") as f:
+        part = MIMEBase("application", "octet-stream")
+        part.set_payload(f.read())
+    encoders.encode_base64(part)
+    part.add_header("Content-Disposition", f'attachment; filename="{filename}"')
+    msg.attach(part)
+
+
+def run():
+    if not all([GMAIL_USER, GMAIL_APP_PASSWORD, RECIPIENT_EMAIL]):
+        raise EnvironmentError(
+            "Missing GMAIL_USER, GMAIL_APP_PASSWORD, or RECIPIENT_EMAIL in .env"
+        )
+
+    relevant = load_csv(RELEVANT_FILE)
+    logger.info(f"Loaded {len(relevant)} relevant cases from {RELEVANT_FILE}")
+
+    failed = []
+    if os.path.exists(FAILED_FILE):
+        with open(FAILED_FILE) as f:
+            failed = [line.strip() for line in f if line.strip()]
+        logger.warning(f"{len(failed)} failed lookup(s) found — will include in email")
+
+    today = datetime.now().strftime("%Y-%m-%d")
+    subject = f"Docket Monster — {len(relevant)} relevant case(s) — {today}"
+    if failed:
+        subject += f" [{len(failed)} lookup failure(s)]"
+
+    msg = MIMEMultipart("mixed")
+    msg["Subject"] = subject
+    msg["From"] = GMAIL_USER
+    msg["To"] = RECIPIENT_EMAIL
+
+    msg.attach(MIMEText(build_html(relevant, failed), "html"))
+
+    for filepath, filename in [
+        (RELEVANT_FILE, "relevant.csv"),
+        (ENRICHED_FILE, "enriched.csv"),
+    ]:
+        if os.path.exists(filepath):
+            attach_csv(msg, filepath, filename)
+            logger.info(f"Attached {filename}")
+
+    logger.info(f"Sending to {RECIPIENT_EMAIL} via {GMAIL_USER}...")
+    with smtplib.SMTP("smtp.gmail.com", 587) as server:
+        server.ehlo()
+        server.starttls()
+        server.login(GMAIL_USER, GMAIL_APP_PASSWORD)
+        server.sendmail(GMAIL_USER, RECIPIENT_EMAIL, msg.as_string())
+
+    logger.info("Email sent successfully.")
+
+
+if __name__ == "__main__":
+    run()

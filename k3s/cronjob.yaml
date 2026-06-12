@@ -1,0 +1,30 @@
+apiVersion: batch/v1
+kind: CronJob
+metadata:
+  name: docket-monster
+  namespace: default
+spec:
+  schedule: "0 15 * * 5"  # Friday at 3pm
+  concurrencyPolicy: Forbid  # don't run if previous job still running
+  successfulJobsHistoryLimit: 3
+  failedJobsHistoryLimit: 3
+  jobTemplate:
+    spec:
+      backoffLimit: 2  # retry up to 2 times on failure
+      template:
+        spec:
+          containers:
+            - name: docket-monster
+              image: docket-monster:latest
+              imagePullPolicy: Never  # use locally imported image
+              envFrom:
+                - secretRef:
+                    name: docket-monster-secret
+              volumeMounts:
+                - name: data
+                  mountPath: /data
+          volumes:
+            - name: data
+              persistentVolumeClaim:
+                claimName: docket-monster-data
+          restartPolicy: OnFailure

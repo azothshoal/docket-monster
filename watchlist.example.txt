@@ -1,0 +1,14 @@
+# Watchlist — case numbers that should always be flagged as relevant,
+# regardless of nature-of-suit, party names, or cause keywords.
+#
+# Format: one case number per line. Judge-initials suffix is ignored
+# (3:24-cv-01234-WHA and 3:24-cv-01234 both match).
+# Lines starting with # are comments.
+#
+# Copy this file to watchlist.txt and add your own cases. watchlist.txt
+# is git-ignored, so your list stays private.
+
+# Examples (replace with real case numbers):
+3:24-cv-01234
+4:25-cv-05678
+5:23-cr-00099

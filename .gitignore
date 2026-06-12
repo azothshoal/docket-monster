@@ -1,0 +1,34 @@
+# Credentials
+.env
+k3s/secret.yaml
+
+# Private watchlist — case list stays local (watchlist.example.txt is committed)
+watchlist.txt
+
+# Old experiments / scratch — kept locally, not part of the published repo
+archive/
+
+# Pipeline output — regenerated on each run
+schedule.csv
+enriched.csv
+relevant.csv
+failed_lookups.txt
+
+# Cache — persistent but not versioned
+courtlistener_cache.json
+raw_html/
+
+# Docker
+*.tar
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# macOS
+.DS_Store
+
+# Cached court index page — fetched live on each run
+judges.html
