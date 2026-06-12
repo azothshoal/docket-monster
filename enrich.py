@@ -11,6 +11,8 @@ Without a token: 100 requests/day. With free account: 5,000 requests/day.
 Results cached in courtlistener_cache.json — known cases are never re-queried.
 """
 
+from __future__ import annotations
+
 import os
 import re
 import csv

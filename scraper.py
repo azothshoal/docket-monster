@@ -6,6 +6,8 @@ Caches the judge index for 6 days to avoid redundant requests.
 Uses 10-second delays between judge pages.
 """
 
+from __future__ import annotations
+
 import os
 import re
 import json

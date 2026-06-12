@@ -9,6 +9,8 @@ Party names and case descriptions are intentionally NOT extracted here.
 CourtListener is the authoritative source for that data (see enrich.py).
 """
 
+from __future__ import annotations
+
 import os
 import re
 import csv
