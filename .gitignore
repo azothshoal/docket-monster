@@ -8,6 +8,9 @@ watchlist.txt
 # Old experiments / scratch — kept locally, not part of the published repo
 archive/
 
+# Local deploy script — hard-codes the Sancho host, kept private
+deploy-to-sancho.sh
+
 # Pipeline output — regenerated on each run
 schedule.csv
 enriched.csv
