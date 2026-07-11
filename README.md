@@ -51,7 +51,7 @@ python run.py --dry-run
 
 # Adjust windows
 python run.py --days 21              # widen schedule/enriched window (default: 14)
-python run.py --relevant-days 14     # widen digest window (default: 7)
+python run.py --relevant-days 14     # widen digest window (default: 8)
 ```
 
 **Demo / no-scrape safety:** set `DOCKET_MONSTER_NO_SCRAPE=1` (in `.env` or the shell) to force the scraper off no matter how `run.py` is invoked. The pipeline then runs entirely from cached `raw_html/` — useful for demos or repeated test runs without hitting the court website (which rate-limits aggressive scraping). Equivalent to always passing `--no-scrape`.
@@ -98,7 +98,7 @@ cp watchlist.example.txt watchlist.txt
 |------|---------|----------------|
 | `schedule.csv` | All hearings: judge, location, courtroom, date, time, case_number | 14 days |
 | `enriched.csv` | All hearings + CourtListener data (case name, NOS, cause, etc.) | 14 days |
-| `relevant.csv` | Filtered digest — tech/privacy cases only | 7 days (coming week) |
+| `relevant.csv` | Filtered digest — tech/privacy cases only | 8 days (coming week) |
 | `courtlistener_cache.json` | Cached CourtListener results — known cases never re-queried | persistent |
 | `raw_html/` | Per-judge cached HTML files + `index.json` metadata | persistent |
 
@@ -126,7 +126,7 @@ cp watchlist.example.txt watchlist.txt
          Caches results in courtlistener_cache.json
          Scores relevance (NOS codes + tech party keywords + cause keywords)
          Writes: enriched.csv (14-day window)
-                 relevant.csv (7-day window — upcoming week only)
+                 relevant.csv (8-day window — upcoming week only)
                  failed_lookups.txt (if any cases couldn't be enriched)
 
 [digest.py]
@@ -187,7 +187,7 @@ The scraper extracts only `(judge, location, courtroom, date, time, case_number)
 ## Two-Window Design
 
 - **14-day window** → `schedule.csv` + `enriched.csv`: editor context on the next two weeks
-- **7-day window** → `relevant.csv` + email digest: actionable cases for the coming week only
+- **8-day window** → `relevant.csv` + email digest: actionable cases for the coming week only (8 days so a Friday run reaches through the following Friday)
 
 CourtListener is only queried for cases within the 14-day window. The cache handles repeat cases week over week.
 

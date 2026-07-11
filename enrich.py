@@ -257,7 +257,7 @@ def _within_days(date_str: str, days: int) -> bool:
     return False
 
 
-def run(relevant_days: int = 7):
+def run(relevant_days: int = 8):
     if not os.path.exists(SCHEDULE_FILE):
         raise FileNotFoundError(f"'{SCHEDULE_FILE}' not found. Run parse.py first.")
 

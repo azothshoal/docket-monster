@@ -37,7 +37,7 @@ def main():
         logger.info("DOCKET_MONSTER_NO_SCRAPE set — scraping disabled, using cached raw_html/")
 
     days = 14        # schedule/enriched window
-    relevant_days = 7  # relevant.csv window (coming week only)
+    relevant_days = 8  # relevant.csv window: 8 days so a Friday run reaches through the following Friday (inclusive)
     for i, arg in enumerate(args):
         if arg == "--days" and i + 1 < len(args):
             days = int(args[i + 1])
