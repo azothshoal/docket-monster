@@ -35,3 +35,8 @@ __pycache__/
 
 # Cached court index page — fetched live on each run
 judges.html
+
+k3s/secret.yaml
+*.tar
+__pycache__/
+.DS_Store
